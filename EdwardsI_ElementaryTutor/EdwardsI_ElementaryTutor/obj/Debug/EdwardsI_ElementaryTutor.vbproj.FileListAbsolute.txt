@@ -1,0 +1,16 @@
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\bin\Debug\EdwardsI_ElementaryTutor.exe.config
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\bin\Debug\EdwardsI_ElementaryTutor.exe
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\bin\Debug\EdwardsI_ElementaryTutor.pdb
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\bin\Debug\EdwardsI_ElementaryTutor.xml
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.vbprojAssemblyReference.cache
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.frmTutor.resources
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.Resources.resources
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.vbproj.GenerateResource.cache
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.vbproj.CoreCompileInputs.cache
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.exe
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.xml
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.pdb
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\bin\Debug\EdwardsI_ElementaryTutor.exe.manifest
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\bin\Debug\EdwardsI_ElementaryTutor.application
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.exe.manifest
+C:\Users\Isaiah\Documents\workspaces\vb-workspace\EdwardsI_ElementaryTutor\EdwardsI_ElementaryTutor\obj\Debug\EdwardsI_ElementaryTutor.application
